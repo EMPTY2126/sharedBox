@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cursorBox{
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    left: 35%;
+    background-color: black;
+}
