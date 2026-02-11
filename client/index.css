@@ -6,7 +6,8 @@
 .cursorBox{
     width: 600px;
     height: 600px;
-    position: absolute;
-    left: 35%;
+    margin: 0 auto;
+    /* position: absolute; */
+    /* left: 35%; */
     background-color: black;
 }
