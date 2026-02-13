@@ -16,8 +16,6 @@ function cursorDesign(uid,CurosrPath){
     wrapper.appendChild(img);
     wrapper.appendChild(label);
     return wrapper;
-    // curse.appendChild(wrapper);
-    // divs.set(uid,wrapper);
 }
 
 export default {

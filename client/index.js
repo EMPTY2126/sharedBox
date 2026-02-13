@@ -13,7 +13,7 @@ let divs = new Map();
 
 const rect = curse.getBoundingClientRect();
 
-const TIME_INETRVAL = 250;
+const TIME_INETRVAL = 100;
 var lastSent = 0;
 
 
